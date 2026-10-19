@@ -1,8 +1,12 @@
 crops/
 dataset/
+dataset_crop/
+dataset_mask/
 models/
 used_data/
 dataset_cls/
+dataset_main/
+augmented/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
