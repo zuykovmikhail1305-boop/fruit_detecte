@@ -7,6 +7,11 @@ used_data/
 dataset_cls/
 dataset_main/
 augmented/
+main_dataset/
+fruits_2/
+raw/
+results_eval/
+.claude
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -230,3 +235,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 notebooks/mobileclip2_b.ts
+cuts_review/
